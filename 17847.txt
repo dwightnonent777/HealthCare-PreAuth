@@ -1,0 +1,45 @@
+﻿HEALTH INSURANCE POLICY SCHEDULE
+Insurer: BlueCross HealthGuard
+Policy Type: Family Health Insurance (HMO Plan)
+Policy Name: HealthGuard Premium Family
+
+1. POLICY HOLDER DETAILS
+Name: Sarah Mitchell
+Date of Birth: 22-Mar-1985
+Gender: Female
+Policyholder ID: BCH/FAM/HG-2847561
+SSN (Masked): XXX-XX-3421
+Address: 567 Maple Avenue, Seattle, WA 98101, USA
+Mobile: +1-206-XXX-XXXX
+Email: sarah.mitchell@email.com
+
+2. POLICY DETAILS
+Policy Number: BCH-WA-2026-445678912
+Policy Period: 01-Feb-2026 to 31-Jan-2027
+Annual Deductible: $3,000 (Family)
+Out-of-Pocket Maximum: $12,000
+Policy Status: Active
+
+3. PREMIUM DETAILS
+Monthly Premium: $725.00
+Annual Premium: $8,700.00
+Employer Contribution: $5,200.00
+Employee Annual Cost: $3,500.00
+
+4. COVERAGE
+In-network: 90% after deductible, Out-of-network: 50% after deductible
+Preventive care (100% covered), Emergency services, Prescription drugs (4-tier copay),
+Mental health services, Maternity and newborn care, Rehabilitation services, Dental (basic)
+
+5. COPAYMENTS & COINSURANCE
+Primary Care Visit: $20 copay
+Specialist Visit: $45 copay
+Emergency Room: $300 copay (waived if admitted)
+Urgent Care: $60 copay
+Generic Drugs: $5 copay, Brand Drugs: $35 copay, Specialty Drugs: $100 copay
+
+6. BENEFICIARY
+Michael Mitchell (Spouse), Emma Mitchell (Daughter), Lucas Mitchell (Son)
+
+7. DECLARATION
+This is a system-generated sample policy document for demonstration purposes only.
